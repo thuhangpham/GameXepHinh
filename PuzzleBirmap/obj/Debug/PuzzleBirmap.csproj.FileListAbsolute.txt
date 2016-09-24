@@ -1,0 +1,18 @@
+E:\Data\HK2-2015\WinForm\PuzzleBirmap\PuzzleBirmap\bin\Debug\PuzzleBirmap.exe.config
+E:\Data\HK2-2015\WinForm\PuzzleBirmap\PuzzleBirmap\bin\Debug\PuzzleBirmap.exe
+E:\Data\HK2-2015\WinForm\PuzzleBirmap\PuzzleBirmap\bin\Debug\PuzzleBirmap.pdb
+E:\Data\HK2-2015\WinForm\PuzzleBirmap\PuzzleBirmap\obj\Debug\PuzzleBirmap.Form1.resources
+E:\Data\HK2-2015\WinForm\PuzzleBirmap\PuzzleBirmap\obj\Debug\PuzzleBirmap.Properties.Resources.resources
+E:\Data\HK2-2015\WinForm\PuzzleBirmap\PuzzleBirmap\obj\Debug\PuzzleBirmap.csproj.GenerateResource.Cache
+E:\Data\HK2-2015\WinForm\PuzzleBirmap\PuzzleBirmap\obj\Debug\PuzzleBirmap.exe
+E:\Data\HK2-2015\WinForm\PuzzleBirmap\PuzzleBirmap\obj\Debug\PuzzleBirmap.pdb
+E:\Data\HK2-2015\WinForm\PuzzleBirmap\PuzzleBirmap\obj\Debug\PuzzleBirmap.csprojResolveAssemblyReference.cache
+E:\Data\HK2-2015\WinForm\Window Form C Sharp\PuzzleBirmap\PuzzleBirmap\bin\Debug\PuzzleBirmap.exe.config
+E:\Data\HK2-2015\WinForm\Window Form C Sharp\PuzzleBirmap\PuzzleBirmap\obj\Debug\PuzzleBirmap.exe
+E:\Data\HK2-2015\WinForm\Window Form C Sharp\PuzzleBirmap\PuzzleBirmap\obj\Debug\PuzzleBirmap.pdb
+E:\Data\HK2-2015\WinForm\Window Form C Sharp\PuzzleBirmap\PuzzleBirmap\bin\Debug\PuzzleBirmap.exe
+E:\Data\HK2-2015\WinForm\Window Form C Sharp\PuzzleBirmap\PuzzleBirmap\bin\Debug\PuzzleBirmap.pdb
+E:\Data\HK2-2015\WinForm\Window Form C Sharp\PuzzleBirmap\PuzzleBirmap\obj\Debug\PuzzleBirmap.csprojResolveAssemblyReference.cache
+E:\Data\HK2-2015\WinForm\Window Form C Sharp\PuzzleBirmap\PuzzleBirmap\obj\Debug\PuzzleBirmap.Form1.resources
+E:\Data\HK2-2015\WinForm\Window Form C Sharp\PuzzleBirmap\PuzzleBirmap\obj\Debug\PuzzleBirmap.Properties.Resources.resources
+E:\Data\HK2-2015\WinForm\Window Form C Sharp\PuzzleBirmap\PuzzleBirmap\obj\Debug\PuzzleBirmap.csproj.GenerateResource.Cache
